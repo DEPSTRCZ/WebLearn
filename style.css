@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+}
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(347deg, rgba(0,0,0,1) 5%, rgba(66,66,83,1) 53%, rgba(66,66,83,1) 54%);
+    color: #ffffff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.PageName {
+    position: relative;
+    color:#ffffff;
+    font-size: 30px;
+    text-align: center;
+}
+.navbar-container {
+    background-color: #3b3b3b;
+    width: 20%;
+    text-align: center;
+    position: relative;
+    left: 40%;
+    padding: 10px;
+}
+.navbar-item {
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 10px;
+    text-align: center;
+    
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
